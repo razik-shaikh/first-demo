@@ -1,3 +1,3 @@
 # first-demo
 This is my first Git repository.
-Auther-Razik shaikh
+Auther-Razik shaikh(Software Developer)
